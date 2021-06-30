@@ -3,3 +3,5 @@
 - beli meja kerja // 1,2,3
 - beli kasur //1,2,3
 - beli dipan //1,2,3
+- beli kitchen sheet // 1,2
+- beli motor baru //1,2
