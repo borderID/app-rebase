@@ -1,4 +1,6 @@
 - beli mobil // 1,2,3
 - lunas rumah //1,2
 - beli sepeda //1,3
-- beli meja kerja
+- beli meja kerja // 1,2,3
+- beli kasur //1,2,3
+- beli dipan //1,2,3
